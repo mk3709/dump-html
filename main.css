@@ -1,0 +1,37 @@
+html{
+    font-size: 22px;
+} 
+body{
+    background-color: black;
+    color: aliceblue;
+}
+a{
+    color: azure;
+}
+a:visited{
+    color: aqua;
+}
+a:hover,a:active{
+    color: brown;
+}
+.button{
+    background-color:orangered;
+    width: 300px;
+    border: 200px;
+    order: 120px;
+     mask-mode:200px ;
+    letter-spacing: 20px;
+    margin-left: 20px;
+
+}
+table,tr,td,caption{
+    color: rgb(15, 118, 209);
+    background-color: chartreuse;
+    border-color: yellow;
+    font-weight: 200;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    border: 10px;
+    border: 200px;
+padding: 0ch;
+}
